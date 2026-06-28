@@ -33,8 +33,9 @@ The system combines:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
+```
 ClarifAI/
 │
 ├── Backend/
@@ -72,7 +73,7 @@ ClarifAI/
 │   └── Drive link
 │
 └── README.md
-
+```
 ---
 
 # 🚧 Current Repository Status
