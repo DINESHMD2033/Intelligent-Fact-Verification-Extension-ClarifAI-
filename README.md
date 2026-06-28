@@ -99,7 +99,7 @@ ClarifAI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Intelligent-Fact-Verification-Extension-ClarifAI-.git
+git clone https://github.com/yourusername/Intelligent-Fact-Verification-Extension-ClarifAI.git
 
 cd Intelligent-Fact-Verification-Extension-ClarifAI
 ```
